@@ -4,9 +4,9 @@ I am a:
 
 - Software Engineer :person_curly_hair:
 - Automation Enthuisiast :mage:
-- Speaker 🔊 
+- Speaker @Devoxx Morocco 🔊 
 
-Honorably awarded:
+> Badges :
 
 <p>
     <a href="https://www.youracclaim.com/badges/d172de01-4d93-43e9-9169-b290c173d84b">
