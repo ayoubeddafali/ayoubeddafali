@@ -21,6 +21,9 @@ I am a:
     <a href="https://www.youracclaim.com/badges/de7e21f4-9f6f-401c-9a7d-31012f0b4487">
         <img src="https://githubimagessa.blob.core.windows.net/badges/rsz_ckad.png" alt="ckad">
     </a>
+    <a href="#">
+		<img src="https://github.com/ayoubeddafali/ayoubeddafali/raw/master/info.svg?sanitize=true">
+	</a>
 </p>
 
 
