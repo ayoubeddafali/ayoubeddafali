@@ -15,6 +15,9 @@ I am a:
     <a href="https://www.youracclaim.com/badges/5e2c04cf-8647-46bf-afc4-c12619fbcbe2">
         <img src="https://githubimagessa.blob.core.windows.net/badges/hashicorp-certified-terraform-associate.png" alt="Terraform">
     </a>
+    <a href="https://www.youracclaim.com/earner/earned/badge/b5ddffbd-a5f6-4476-bd8f-7d4a22d5c9e7">
+        <img src="https://githubimagessa.blob.core.windows.net/badges/rsz_cks.png" alt="cka">
+    </a>
     <a href="https://www.youracclaim.com/badges/ffe8ecf9-52c4-4528-b16c-12eda26dcd10">
         <img src="https://githubimagessa.blob.core.windows.net/badges/rsz_cka.png" alt="cka">
     </a>
