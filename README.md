@@ -6,9 +6,6 @@ I am a:
 - Automation Enthuisiast :mage:
 - Speaker @Devoxx Morocco 🔊 
 
-
-<img align="right" src="https://githubimagessa.blob.core.windows.net/badges/code.gif" width="40%"/>
-
 > Badges :
 
 <p>
@@ -30,6 +27,6 @@ I am a:
 
 </p>
 
-
+<img  align="right" src="https://githubimagessa.blob.core.windows.net/badges/code.gif" width="100%"/>
 
 
