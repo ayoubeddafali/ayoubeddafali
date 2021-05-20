@@ -12,6 +12,9 @@ I am a:
     <a href="https://www.youracclaim.com/badges/d172de01-4d93-43e9-9169-b290c173d84b">
         <img src="https://githubimagessa.blob.core.windows.net/badges/rsz_az103.png" alt="Az103">
     </a>
+    <a href="https://www.credly.com/badges/f06edd48-f56a-4735-8189-f1b9f57f07b2">
+        <img src="https://githubimagessa.blob.core.windows.net/badges/rsz_az400.png" alt="Az400">
+    </a>
     <a href="https://www.youracclaim.com/badges/5e2c04cf-8647-46bf-afc4-c12619fbcbe2">
         <img src="https://githubimagessa.blob.core.windows.net/badges/hashicorp-certified-terraform-associate.png" alt="Terraform">
     </a>
